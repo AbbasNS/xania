@@ -1,4 +1,4 @@
-trigger: Xania MUD source ![C/C++ CI](https://github.com/mattgodbolt/xania/workflows/C/C++%20CI/badge.svg)
+trigger-1: Xania MUD source ![C/C++ CI](https://github.com/mattgodbolt/xania/workflows/C/C++%20CI/badge.svg)
 ----------------
 
 Found on @mattgodbolt's hard disk, and resurrected. Shows the code behind a
